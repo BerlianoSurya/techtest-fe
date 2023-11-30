@@ -1,4 +1,4 @@
-# Capstone Project App
+# Todo App
 
 
 ## Available Scripts
